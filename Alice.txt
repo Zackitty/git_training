@@ -9,4 +9,8 @@ hi
 >>>>>>> f971a814d4de9be400c0ca860e356c433a4e9bd3
 =======
 hi Alice
+<<<<<<< HEAD
 >>>>>>> 2c3c2cdd4b57c19fa140e40aa436799a3b87edb0
+=======
+Oss
+>>>>>>> 02c345d5341cfb641631a7fb8517c9e28568e865
