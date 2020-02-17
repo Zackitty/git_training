@@ -1,2 +1,8 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+<<<<<<< HEAD
 Hi!
+=======
+hi Alice
+Oss
+Oss
+>>>>>>> 42ce4c47a2a1dc950e8fc225e8f157fe9c7c3d5d
