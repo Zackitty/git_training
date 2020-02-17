@@ -1,4 +1,8 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+<<<<<<< HEAD
 Hi! I'm gobbled goop!
 Porra
 Sweet Alice
+=======
+hi
+>>>>>>> f971a814d4de9be400c0ca860e356c433a4e9bd3
